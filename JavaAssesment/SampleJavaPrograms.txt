@@ -1,0 +1,16 @@
+ Fibonacci series 
+ A prime number
+ given num prime or not
+ Reverse a String &  String Palindrome
+ Reverse array 
+ Reverse a number & num Palindrome 
+ swap number
+ Armstrong
+ ArraySort
+ Even/odd
+ Factorial
+  Remove duplicates from an array
+ Printing patterns
+ Print repeated characters of String?
+ The square root of a number
+  GCD of two numbers
