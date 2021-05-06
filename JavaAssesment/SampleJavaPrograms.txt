@@ -1,4 +1,4 @@
- Fibonacci series 
+ Basic Java programs:Fibonacci series 
  A prime number
  given num prime or not
  Reverse a String &  String Palindrome
